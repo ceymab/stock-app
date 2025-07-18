@@ -4,7 +4,7 @@
 
 ## Preview
 
-![StockApp Screenshot](src/assets/stock-app-preview.png)
+![Demo](src/assets/stock-app.gif)
 
 ## Setup & Run
 
